@@ -1,8 +1,6 @@
 # MSChallenger
 挑戰者人口普查小工具
 
-(以下內容全使用CHATGPT撰寫，程式本身也是使用CHATGPT完成)
-
 📘 MSChallenger
 
 MSChallenger 是一套基於 Nexon Open API 的 MapleStory 資料蒐集與分析工具，
